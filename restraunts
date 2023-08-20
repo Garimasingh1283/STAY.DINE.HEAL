@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Best Cafes & Restraunts in gandhinagar</title>
+</head>
+
+<body>
+
+    <div1>
+        <h1>CAFES</h1>
+        <table>
+            <tr>
+                <th>Cafe Name</th>
+                <th>Location</th>
+                <th>Reviews</th>
+                <th>Photos</th>
+            </tr>
+            <tr>
+                <td>Mocha</td>
+                <th>Infocity Club & Resort, Gandhinagar,
+                    <br>Gandhinagar-Gujarat - 382016
+                    <br>(Near Indroda Circle, Infocity)
+                </th>
+                <th>4.2 STAR
+                    <br>3,466 Ratings
+                </th>
+                <th>
+                    <img src="" alt="" height="100">
+                </th>
+            </tr>
+
+            <tr>
+                <td>Cafe Creamoholic The Coffee Shop</td>
+                <th>59-60, J Block, Krushna Kunj Society, 
+                    <br>Kudasan, Gandhinagar-Gujarat - 382421
+                </th>
+                <th>4.2 STAR
+                    <br>5,267 Ratings
+                </th>
+                <th>
+                    <img src="" alt="" height="100">
+                </th>
+            </tr>
+
+            <tr>
+                <td>Size Zero Cafe & Restro</td>
+                <th>Show Room No:18, Supermall Annexe, 
+                   <br>gandhinagar sector 7, Gandhinagar-gujarat
+                   <br> - 382007 (Near Gh0 Circle)
+
+
+                </th>
+                <th>4.2 STAR
+                    <br>421 Ratings
+                </th>
+                <th>
+                    <img src="" alt="" height="100">
+                </th>
+            </tr>
+
+
+            <tr>
+                <td>The Avenue Cafe</td>
+                <th>Survey No54, 58 and 59, Shop No63, Ground Floor,
+                     <br>Pramukh Mastana, Gandhinagar, Gandhin, 
+                     <br>Reliance Cross Road, gandhinagar sector 7,
+                     <br> Gandhinagar-gujarat - 382007
+                </th>
+                <th>4.1 STAR
+                    <br>103 Ratings
+                </th>
+                <th>
+                    <img src="" alt="" height="100">
+                </th>
+            </tr>
+
+
+            <tr>
+                <td>Shivas Coffee Bar</td>
+                <th>Shop No 38, Super Mall 1, Gandhinagar Ho, 
+                    <br>Gandhinagar-Gujarat - 382010
+                    <br> (Near State Bank Of India , Infocity)
+                </th>
+                <th>3.9 STAR
+                    <br>588 Ratings
+                </th>
+                <th>
+                    <img src="" alt="" height="100">
+                </th>
+            </tr>
+
+
+            <tr>
+                <td>Ken's Koffee Plus Plus
+                </td>
+                <th>Ground Floor, Gift One Tower, 
+                    <br>Gujarat International Finance Tec-City,
+                    <br> Gift City, Gandhinagar-Gujarat - 382355
+
+
+                </th>
+                <th>3.9 STAR
+                    <br>101 Ratings
+                </th>
+                <th>
+                    <img src="" alt="" height="100">
+                </th>
+            </tr>
+
+
+            <tr>
+                <td>Rosita Cafe
+                </td>
+                <th>Shop A/12, Vinayak Riverside Complex, 
+                    <br>Airport Gandhinagar Highway, Gandhinagar, 
+                    <br>raysan, Gandhinagar-Gujarat - 382007
+                    <br> (Near Capital Crown, Opposite Shanti Bitonica)
+
+
+                </th>
+                <th>4.3 STAR
+                    <br>32 Ratings
+                </th>
+                <th>
+                    <img src="" alt="" height="100">
+                </th>
+            </tr>
+
+            <tr>
+                <td>The Shake Maker</td>
+                <th>B58, Pramukh Arcade, Reliance Chokdi, 
+                    <br>Atkudasan, Airport Gandhinagar Highway,
+                     <br>Gandhinagar, Kudasan, Gandhinagar-Gujarat
+                     <br> - 382421 (Near Middle Town Hotel)
+                </th>
+                <th>4.2 STAR
+                    <br>466 Ratings
+                </th>
+                <th>
+                    <img src="" alt="" height="100">
+                </th>
+            </tr>
+
+
+            <tr>
+                <td>Retro 90'S Cafe</td>
+                <th>Retro 90`s Cafe, Sector 6, 
+                <br>Gandhinagar, Gujarat, Gandhinagar-Gujarat - 382006
+                </th>
+                <th>4.6 STAR
+                    <br>73 Ratings
+                </th>
+                <th>
+                    <img src="" alt="" height="100">
+                </th>
+            </tr>
+
+
+            <tr>
+                <td>Cafe Coffee Day</td>
+                <th>Shop No 17, Commercial Complex, 
+                    <br>Gandhinagar Sector 6, Gandhinagar-Gujarat
+                    <br> - 382006 (Inside Super Mall 2)
+
+
+                </th>
+                <th>4.1 STAR
+                    <br>1,232 Ratings
+                </th>
+                <th>
+                    <img src="" alt="" height="100">
+                </th>
+            </tr>
+
+
+        </table>
+    </div1>
+
+        <div2>
+            <h1>VEGETARIAN RESTRAUNTS</h1>
+            <table>
+                <tr>
+                    <th>Restraunt Name</th>
+                    <th>Location</th>
+                    <th>Reviews</th>
+                    <th>Photos</th>
+                </tr>
+                <tr>
+                    <td>Green Apple Restraunt</td>
+                    <th>277, 1st Floor, Gh Road,
+                        <br>Gandhinagar Sector 16,
+                        <br>Gandhinagar-Gujarat - 382016
+                        <br>(Near Gandhinagar Nagrik Bank)
+                    </th>
+                    <th>4.4 STAR
+                        <br>4,876 Ratings
+                    </th>
+                    <th>
+                        <img src="" alt="" height="100">
+                    </th>
+                </tr>
+
+                <tr>
+                    <td>Sankalp Restraunt</td>
+                    <th>101, Super Mall 1, Gandhinagar HO,
+                        <br>Gandhinagar-Gujarat - 382010
+                        <br>(Near Gh 0 Circle, Ch 0, Infocity)
+                    </th>
+                    <th>4.4 STAR
+                        <br>4,876 Ratings
+                    </th>
+                    <th>
+                        <img src="" alt="" height="100">
+                    </th>
+                </tr>
+
+                <tr>
+                    <td>Greenz Restraunt</td>
+                    <th>Reliance Chowkdi to Sargasan Road,
+                        <br>Kudasan, Gandhinagar-Gujarat - 382421
+                        <br>(Behind Pramukh Syprus, Opposite Aska Hospital)
+                    </th>
+                    <th>4.2 STAR
+                        <br>5,683 Rating
+                    </th>
+                    <th>
+                        <img src="" alt="" height="100">
+                    </th>
+                </tr>
+
+                <tr>
+                    <td>Terracotta Multicuisine Restraunt</td>
+                    <th>A-101, Pramukh Arcade 2,
+                        <br>Airport Gandhinagar Highway,
+                        <br>Kudasan,Gandhinagar-Gujarat - 382421 (Near Reliance Cross Road)
+                    </th>
+                    <th>4.3 STAR
+                        <br> 7,178 Ratings
+                    </th>
+                    <th>
+                        <img src="" alt="" height="100">
+                    </th>
+                </tr>
+
+                <tr>
+                    <td>Plush Restraunt</td>
+                    <th>Ahmedabad Gandhinagar Highway,
+                        <br>Kudasan Por Road, Kudasan,
+                        <br>Gandhinagar-Gujarat - 382421 (Behind Ugati Heights)
+                    </th>
+                    <th>4.1 STAR
+                        <br>829 Rating
+                    </th>
+                    <th>
+                        <img src="" alt="" height="100">
+                    </th>
+                </tr>
+
+                <tr>
+                    <td>Gokul dining hall Restraunt</td>
+                    <th>Gandhinagar, Gandhinagar-Gujarat -
+                        <br>382016 (Near Shalimar Cinema)
+                    </th>
+                    <th>4.2 STAR
+                        <br>1,152 Ratings
+                    </th>
+                    <th>
+                        <img src="" alt="" height="100">
+                    </th>
+                </tr>
+
+                <tr>
+                    <td>Bhagyodaya Restraunt</td>
+                    <th>Shop No 197, District Shopping Centre,
+                        <br>CHH Road, Gandhinagar Sector 21,
+                        <br> Gandhinagar-Gujarat - 382021 (Near R World)
+                    </th>
+                    <th>4.1 STAR
+                        <br>1,209 Rating
+                    </th>
+                    <th>
+                        <img src="" alt="" height="100">
+                    </th>
+                </tr>
+            </table>
+        </div2>
+
+            <div3>
+                <h1>NON VEGETARIAN RESTRAUNTS</h1>
+                <table>
+                    <tr>
+                        <th>Restraunt Name</th>
+                        <th>Location</th>
+                        <th>Reviews</th>
+                        <th>Photos</th>
+                    </tr>
+
+                    <tr>
+                        <td>Furat Restraunt</td>
+                        <th>Pramukh Arcade, Reliance Cross Rd,
+                            <br> Kudasan, Gandhinagar, Gujarat 382421
+                        </th>
+                        <th>4 STAR
+                            <br>2,335 Ratings
+                        </th>
+                        <th>
+                            <img src="" alt="" height="100">
+                        </th>
+                    </tr>
+
+                    <tr>
+                        <td>Donor & Gyros Restraunt</td>
+                        <th>A 101 102, Pramukh Mastana, Kudasan, <br>
+                            Airport Gandhinagar Highway, Kudasan,
+                            <br> Gujarat - 382421 (Near Reliance Cross Road)
+                        </th>
+                        <th>4.2STAR
+                            <br>374 Ratings
+                        </th>
+                    </tr>
+
+
+                    <tr>
+                        <td>Dawat Restraunt</td>
+                        <th> Shop No A-9 to 11, Super Mall 1,<br>
+                            Infocity Campus, Gandhinagar Ho,
+                            <br>Gandhinagar-gujarat - 382010
+                        </th>
+                        <th>3.7STAR
+                            <br>1,588 Ratings
+                        </th>
+                    </tr>
+
+                    <tr>
+                        <td>Zayka Restraunt</td>
+                        <th> Shop No A-9 to 11, Super Mall 1,<br>
+                            Infocity Campus, Gandhinagar Ho,
+                            <br>Gandhinagar-gujarat - 382010
+                        </th>
+                        <th>3.7STAR
+                            <br>1,588 Ratings
+                        </th>
+                    </tr>
+
+                    <tr>
+                        <td>Banarjee Alfa Restraunt</td>
+                        <th> Plot No 316 & 317, Shopping Centre, Sector 17,
+                            <br> Gandhinagar-Gujarat - 382016 (Near Union Bank)
+                        </th>
+                        <th>4.2 STAR
+                            <br>2,083 Ratings
+                        </th>
+                    </tr>
+
+                    <tr>
+                        <td>Someplace Else Restraunt</td>
+                        <th> 117, Super Mall-2, Infocity, Sector 7,
+                            <br>Gandhinagar-Gujarat - 382007 Hajiro Circle
+                        </th>
+                        <th>4.1 STAR
+                            <br>625 Ratings
+                        </th>
+                    </tr>
+
+                    <tr>
+                        <td>Shahi Sigdi Restraunt</td>
+                        <th> Pdpu Road, Raysan, Gandhinagar-Gujarat - 382007
+                            <br>( Besides Shiva's Coffee Bar)
+                        </th>
+                        <th>4.3 STAR
+                            <br>3,454 Ratings
+                        </th>
+                    </tr>
+
+                    <tr>
+                        <td>Behrouz Restraunt</td>
+                        <th> Shop No C/19-20, Swagat Rainforest 2,
+                            <br> C-19-20, Village Kudasan,
+                            <br>Gandhinagar-gujarat - 382010
+                        </th>
+                        <th>4.1STAR
+                            <br>1,128 Ratings
+                        </th>
+                    </tr>
+
+                    <tr>
+                        <td>Savoury Restraunt</td>
+                        <th> 1st Floor, Atria Buisness Hub Complex,
+                            <br>Gandhinagar Sarkehj Highway, Sargasan,
+                            <br>Gandhinagar-gujarat - 382421 (KH '0)
+                        </th>
+                        <th>4.0 STAR
+                            <br>,956 Ratings
+                        </th>
+                    </tr>
+            </div3>
+            </table>
+
+
+</body>
+
+</html>
