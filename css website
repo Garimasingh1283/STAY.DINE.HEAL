@@ -1,0 +1,17 @@
+// tourist attractions
+th, td {
+  border: 1px solid black;
+  border-radius: 10px;
+    color:black;
+    background-color: lavender;
+    text-align:center;
+    
+}
+h1{
+    text-align:center;
+    background-color:lightblue;
+    font-size:xxx-large;
+}
+//
+
+
